@@ -1,0 +1,6 @@
+{
+  "name": "EduPath AI",
+  "description": "Global Youth Career & Curriculum Guidance Engine. Provides hyper-localized academic advisory and career counseling powered by AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
